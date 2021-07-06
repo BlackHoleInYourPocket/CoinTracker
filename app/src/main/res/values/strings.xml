@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Coin Tracker</string>
+    <string name="coin_name"><b>Coin</b></string>
+    <string name="buyed_price"><b>Alış</b></string>
+    <string name="actual_price"><b>Satış</b></string>
+    <string name="difference"><b>Fark</b></string>
+    <string name="buyed_unit"><b>Miktar</b></string>
+    <string name="total_money">Toplam</string>
+    <string name="coin"><b>Coin Sembol</b></string>
+    <string name="save">Kaydet</string>
+    <string name="record_name"><b>Kayıt Adı</b></string>
+    <string name="record"><b>Kayıt</b></string>
+    <string name="irem_sum"><b>İrem Toplam</b></string>
+    <string name="seyfi_sum"><b>Seyfi Toplam</b></string>
+    <string name="total_buy"><b>Toplam Alış</b></string>
+    <string name="total_sell"><b>Toplam Satış</b></string>
+</resources>
